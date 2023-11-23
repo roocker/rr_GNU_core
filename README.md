@@ -8,6 +8,6 @@ Everyone is welcome to roast, criticize or comment!
 - roocker's rust - `cat`
 
 ## In Review
-- roocker's rust - `echo`
+- [roocker's rust - `echo`](https://github.com/roocker/rr_echo)
 
 ## Marked as done
