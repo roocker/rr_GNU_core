@@ -131,7 +131,7 @@ fn add_linenumbers(input: VecCatResult, empty_lines: bool) -> VecCatResult {
     let mut linenumber = 0;
     for line in input.iter() {
         if empty_lines & line.trim().is_empty() {
-            output.push("\n".to_string())
+            output.push("".to_string())
         } else {
             linenumber += 1;
             output.push(format!("{:6}\t{}", linenumber, line))

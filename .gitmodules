@@ -1,3 +1,7 @@
 [submodule "rr_echo"]
 	path = rr_echo
 	url = git@github.com:roocker/rr_echo.git
+
+[submodule "rr_cat"]
+	path = rr_cat
+	url = git@github.com:roocker/rr_cat.git
