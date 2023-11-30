@@ -1,4 +1,8 @@
-# roocker rust `cat`
+# roocker's rust - `cat`
+WIP
+
+## Issues:
+-
 
 ## help unix
 
